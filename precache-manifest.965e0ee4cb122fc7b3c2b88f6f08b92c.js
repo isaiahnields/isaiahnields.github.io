@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a2ac4b9ca49f9dcd76c2",
+    "revision": "a8195198bc3d0d222049",
     "url": "/static/css/main.424c5b18.chunk.css"
   },
   {
-    "revision": "a2ac4b9ca49f9dcd76c2",
-    "url": "/static/js/main.d0611f50.chunk.js"
+    "revision": "a8195198bc3d0d222049",
+    "url": "/static/js/main.17682125.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/roast-bot-logo.218f9090.png"
   },
   {
-    "revision": "8f6cf5747a80199ced99c16e9888b567",
+    "revision": "3c0fb1fe8866f191fab32ee1d3dad22f",
     "url": "/index.html"
   }
 ];
