@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "a8195198bc3d0d222049",
+    "revision": "e4aded7f47252f75d78b",
     "url": "/static/css/main.424c5b18.chunk.css"
   },
   {
-    "revision": "a8195198bc3d0d222049",
-    "url": "/static/js/main.17682125.chunk.js"
+    "revision": "e4aded7f47252f75d78b",
+    "url": "/static/js/main.dc511ecd.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "80cb66754d22a260511a",
-    "url": "/static/js/2.e0d84afd.chunk.js"
+    "revision": "371c1335cbe6ca707aa1",
+    "url": "/static/js/2.aa58467d.chunk.js"
   },
   {
     "revision": "c329fe2130f995e095b9862b18ff0fab",
@@ -32,7 +32,11 @@ self.__precacheManifest = [
     "url": "/static/media/roast-bot-logo.218f9090.png"
   },
   {
-    "revision": "3c0fb1fe8866f191fab32ee1d3dad22f",
+    "revision": "555407c725c357480fd1e8ad89fb7fb8",
+    "url": "/static/media/roast-bot-article.555407c7.png"
+  },
+  {
+    "revision": "60626efc440752407d2e4a9d15ad84af",
     "url": "/index.html"
   }
 ];
