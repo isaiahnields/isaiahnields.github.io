@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "6e897ac098dcdf101c5c",
+    "revision": "a818d6aaafbe287e82b1",
     "url": "/static/css/main.424c5b18.chunk.css"
   },
   {
-    "revision": "6e897ac098dcdf101c5c",
-    "url": "/static/js/main.f42e202a.chunk.js"
+    "revision": "a818d6aaafbe287e82b1",
+    "url": "/static/js/main.82736e6f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "371c1335cbe6ca707aa1",
-    "url": "/static/js/2.aa58467d.chunk.js"
+    "revision": "4c110a1ad82c07edfa8c",
+    "url": "/static/js/2.e41a3803.chunk.js"
   },
   {
     "revision": "c329fe2130f995e095b9862b18ff0fab",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/static/media/roast-bot-article.555407c7.png"
   },
   {
-    "revision": "49c4cdf5e7b30fbd9d21ef478420e02a",
+    "revision": "fc112a99626c675b10d101e6a1270a96",
     "url": "/index.html"
   }
 ];
